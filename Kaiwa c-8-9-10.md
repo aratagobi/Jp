@@ -1,59 +1,26 @@
 
+- Giáp : Alo, Giáp đây.
+- Duy  : Tớ Duy đây. Cuối tuần cậu rảnh không?
+- Giáp : Ừ, tớ rảnh.
 
----
+- Duy  : Vậy đi xem phim cùng nhau nhé?
+- Giáp : Hay đấy. Phim gì thế?
+- Duy  : "Kimi no Na wa". Bộ phim này nổi tiếng lắm đó
 
+- Giáp : Vậy à. Tớ cũng muốn xem. Khi nào thế?
+- Duy  : Thứ Bảy tuần này.
+- Giáp : Được đấy. Mình gặp nhau mấy giờ, ở đâu nhỉ?
+- Duy  : Vì phim bắt đầu lúc 10 giờ sáng, nên hãy gặp lúc 9 giờ ở quán nước bên cạnh trường đại học của tớ nhé, tớ và cậu sẽ cùng đi đến rạp chiếu phim Beta bằng xe máy của tớ.
 
-Yuki : Alo, Mai đây.
-Linh : Tớ Linh đây. Cuối tuần cậu rảnh không?
-Yuki : Ừ, tớ rảnh.
+- Giáp : Rạp chiếu phim Beta à ... Có vẻ khá xa nhỉ?
+- Duy  : Ừ, phải mất 30 phút đi bằng xe máy đó.
+- Giáp : Thế à, vậy chắc tớ đến sớm một chút, khi nào đến tớ sẽ gọi cho cậu nhé.
 
-Linh : Vậy đi xem phim cùng nhau nhé?
-Yuki : Hay đấy. Phim gì thế?
-Linh : "ABC". Gần đây rất được yêu thích.
-
-Yuki : Vậy à. Tớ cũng muốn xem. Khi nào thế?
-Linh : Chủ Nhật tuần này.
-Yuki : Được đấy. Mình gặp nhau mấy giờ, ở đâu đấy?
-Linh : Vì phim bắt đầu từ 8 giờ, nên hãy gặp lúc 7 giờ 45 phút ở tầng 2 của rạp chiếu phim CGV nhé.
-
-Yuki : Rạp chiếu phim CGV à ... Tớ chưa từng đến bao giờ, nên sau khi đến trước rạp, tớ sẽ gọi cho cậu nhé.
-Linh : Không vấn đề gì. Cậu đi đến rạp chiếu phim bằng cái gì?
-Yuki : Chắc là tớ sẽ đi bằng taxi. Đi từ nhà tớ đến rạp chiếu phim tốn bao nhiêu tiền nhỉ?
-Linh : Chắc là sẽ tốn khoảng 100.000 VNĐ đó.
-Yuki : Vậy à.
-Linh : Cậu có thể đi bằng xe buýt với 10.000 VNĐ đấy.
-Yuki : Được đấy. Tớ sẽ đi bằng xe buýt.
-
-Linh : Sau khi xem phim, cùng tớ đi ăn cái gì đó nhé?
-Yuki : Gần đây tớ đang giảm cân nên ...
-Linh : À, tớ hiểu rồi. Vậy hẹn gặp lại vào Chủ Nhật nhé.
-
----
-
-
-
-Giáp : Alo, Giáp đây.
-Duy  : Tớ Duy đây. Cuối tuần cậu rảnh không?
-Giáp : Ừ, tớ rảnh.
-
-Duy  : Vậy đi xem phim cùng nhau nhé?
-Giáp : Hay đấy. Phim gì thế?
-Duy  : "Kimi no Na wa". Bộ phim này nổi tiếng lắm đó
-
-Giáp : Vậy à. Tớ cũng muốn xem. Khi nào thế?
-Duy  : Thứ Bảy tuần này.
-Giáp : Được đấy. Mình gặp nhau mấy giờ, ở đâu nhỉ?
-Duy  : Vì phim bắt đầu lúc 10 giờ sáng, nên hãy gặp lúc 9 giờ ở quán nước bên cạnh trường đại học của tớ nhé, tớ và cậu sẽ cùng đi đến rạp chiếu phim Beta bằng xe máy của tớ.
-
-Giáp : Rạp chiếu phim Beta à ... Có vẻ khá xa nhỉ?
-Duy  : Ừ, phải mất 30 phút đi bằng xe máy đó.
-Giáp : Thế à, vậy chắc tớ đến sớm một chút, khi nào đến tớ sẽ gọi cho cậu nhé.
-
-Duy  : Á, sau khi xem phim, cùng đi ăn trưa luôn nhé?
-Giáp : Được đó, dưới tầng 1 của rạp chiếu phim có một quán phở rất ngon đó.
-Duy  : Thế à, vậy thì cùng đi ăn nhé
-Giáp : Ừ, vậy thì hẹn gặp cậu vào thứ bảy nhé.
-Duy  : Ừ, tạm biệt.
+- Duy  : Á, sau khi xem phim, cùng đi ăn trưa luôn nhé?
+- Giáp : Được đó, dưới tầng 1 của rạp chiếu phim có một quán phở rất ngon đó.
+- Duy  : Thế à, vậy thì cùng đi ăn nhé
+- Giáp : Ừ, vậy thì hẹn gặp cậu vào thứ bảy nhé.
+- Duy  : Ừ, tạm biệt.
 
 
 ---
@@ -62,28 +29,28 @@ Convert Giáp - Duy:
 
 ### 1. Bản full Hiragana (ひらがな)
 
-Giáp : もしもし、じゃっぷ だよ。
-Duy  : ずい だよ。しゅうまつ、ひま？
-Giáp : うん、ひま だよ。
+- Giáp : もしもし、じゃっぷ だよ。
+- Duy  : ずい だよ。しゅうまつ、ひま？
+- Giáp : うん、ひま だよ。
 
-Duy  : じゃあ、いっしょに えいがを みに いかない？
-Giáp : それ いいね。なんの えいが？
-Duy  : 「きみの なは」だよ。この えいがは とても にんき だよ。
+- Duy  : じゃあ、いっしょに えいがを みに いかない？
+- Giáp : それ いいね。なんの えいが？
+- Duy  : 「きみの なは」だよ。この えいがは とても にんき だよ。
 
-Giáp : そうなんだ。ぼくも みたい。いつ？
-Duy  : こんしゅうの どようび。
-Giáp : いいね。なんじに、どこで あう？
-Duy  : えいがは ごぜん 10じ（じゅうじ）から だから、9じ（くじ）に ぼくの だいがくの となりの かふぇで あおう。ぼくの ばいくで いっしょに べた えいがかんへ いこう。
+- Giáp : そうなんだ。ぼくも みたい。いつ？
+- Duy  : こんしゅうの どようび。
+- Giáp : いいね。なんじに、どこで あう？
+- Duy  : えいがは ごぜん 10じ（じゅうじ）から だから、9じ（くじ）に ぼくの だいがくの となりの かふぇで あおう。ぼくの ばいくで いっしょに べた えいがかんへ いこう。
 
-Giáp : べた えいがかんか… ちょっと とおそうだね。
-Duy  : うん、ばいくで 30ぷん（さんじゅっぷん）くらい かかるよ。
-Giáp : そうなんだ。じゃあ、ちょっと はやく いくね。ついたら、でんわ するね。
+- Giáp : べた えいがかんか… ちょっと とおそうだね。
+- Duy  : うん、ばいくで 30ぷん（さんじゅっぷん）くらい かかるよ。
+- Giáp : そうなんだ。じゃあ、ちょっと はやく いくね。ついたら、でんわ するね。
 
-Duy  : あ、えいがを みたら、いっしょに ひるごはんも たべない？
-Giáp : いいね。えいがかんの 1かい（いっかい）に とても おいしい ふぉーの みせが あるよ。
-Duy  : そうなんだ。じゃあ、いっしょに たべに いこう！
-Giáp : うん、じゃあ、また どようびにね。
-Duy  : うん、じゃあね。
+- Duy  : あ、えいがを みたら、いっしょに ひるごはんも たべない？
+- Giáp : いいね。えいがかんの 1かい（いっかい）に とても おいしい ふぉーの みせが あるよ。
+- Duy  : そうなんだ。じゃあ、いっしょに たべに いこう！
+- Giáp : うん、じゃあ、また どようびにね。
+- Duy  : うん、じゃあね。
 
 ---
 
@@ -134,4 +101,36 @@ Duy  : うん、じゃあね。
    - `じゃあね` / `また〜にね` (Tạm biệt / Hẹn gặp lại vào...).
    - Đếm tầng: <ruby>1階<rt>いっかい</rt></ruby> (tầng 1).
    - Đếm giờ/phút: <ruby>9時<rt>くじ</rt></ruby> (9 giờ - lưu ý đọc là くじ chứ không phải きゅうじ), <ruby>30分<rt>さんじゅっぷん</rt></ruby> (30 phút).
+
+---
+
+---
+
+
+Yuki : Alo, Mai đây.
+Linh : Tớ Linh đây. Cuối tuần cậu rảnh không?
+Yuki : Ừ, tớ rảnh.
+
+Linh : Vậy đi xem phim cùng nhau nhé?
+Yuki : Hay đấy. Phim gì thế?
+Linh : "ABC". Gần đây rất được yêu thích.
+
+Yuki : Vậy à. Tớ cũng muốn xem. Khi nào thế?
+Linh : Chủ Nhật tuần này.
+Yuki : Được đấy. Mình gặp nhau mấy giờ, ở đâu đấy?
+Linh : Vì phim bắt đầu từ 8 giờ, nên hãy gặp lúc 7 giờ 45 phút ở tầng 2 của rạp chiếu phim CGV nhé.
+
+Yuki : Rạp chiếu phim CGV à ... Tớ chưa từng đến bao giờ, nên sau khi đến trước rạp, tớ sẽ gọi cho cậu nhé.
+Linh : Không vấn đề gì. Cậu đi đến rạp chiếu phim bằng cái gì?
+Yuki : Chắc là tớ sẽ đi bằng taxi. Đi từ nhà tớ đến rạp chiếu phim tốn bao nhiêu tiền nhỉ?
+Linh : Chắc là sẽ tốn khoảng 100.000 VNĐ đó.
+Yuki : Vậy à.
+Linh : Cậu có thể đi bằng xe buýt với 10.000 VNĐ đấy.
+Yuki : Được đấy. Tớ sẽ đi bằng xe buýt.
+
+Linh : Sau khi xem phim, cùng tớ đi ăn cái gì đó nhé?
+Yuki : Gần đây tớ đang giảm cân nên ...
+Linh : À, tớ hiểu rồi. Vậy hẹn gặp lại vào Chủ Nhật nhé.
+
+---
 
