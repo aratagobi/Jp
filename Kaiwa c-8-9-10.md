@@ -1,26 +1,26 @@
 
-- Giáp : Alo, Giáp đây.
-- Duy  : Tớ Duy đây. Cuối tuần cậu rảnh không?
-- Giáp : Ừ, tớ rảnh.
+<br> Giáp : Alo, Giáp đây.
+<br> Duy  : Tớ Duy đây. Cuối tuần cậu rảnh không?
+<br> Giáp : Ừ, tớ rảnh.
 
-- Duy  : Vậy đi xem phim cùng nhau nhé?
-- Giáp : Hay đấy. Phim gì thế?
-- Duy  : "Kimi no Na wa". Bộ phim này nổi tiếng lắm đó
+<br> Duy  : Vậy đi xem phim cùng nhau nhé?
+<br> Giáp : Hay đấy. Phim gì thế?
+<br> Duy  : "Kimi no Na wa". Bộ phim này nổi tiếng lắm đó
 
-- Giáp : Vậy à. Tớ cũng muốn xem. Khi nào thế?
-- Duy  : Thứ Bảy tuần này.
-- Giáp : Được đấy. Mình gặp nhau mấy giờ, ở đâu nhỉ?
-- Duy  : Vì phim bắt đầu lúc 10 giờ sáng, nên hãy gặp lúc 9 giờ ở quán nước bên cạnh trường đại học của tớ nhé, tớ và cậu sẽ cùng đi đến rạp chiếu phim Beta bằng xe máy của tớ.
+<br> Giáp : Vậy à. Tớ cũng muốn xem. Khi nào thế?
+<br> Duy  : Thứ Bảy tuần này.
+<br> Giáp : Được đấy. Mình gặp nhau mấy giờ, ở đâu nhỉ?
+<br> Duy  : Vì phim bắt đầu lúc 10 giờ sáng, nên hãy gặp lúc 9 giờ ở quán nước bên cạnh trường đại học của tớ nhé, tớ và cậu sẽ cùng đi đến rạp chiếu phim Beta bằng xe máy của tớ.
 
-- Giáp : Rạp chiếu phim Beta à ... Có vẻ khá xa nhỉ?
-- Duy  : Ừ, phải mất 30 phút đi bằng xe máy đó.
-- Giáp : Thế à, vậy chắc tớ đến sớm một chút, khi nào đến tớ sẽ gọi cho cậu nhé.
+<br> Giáp : Rạp chiếu phim Beta à ... Có vẻ khá xa nhỉ?
+<br> Duy  : Ừ, phải mất 30 phút đi bằng xe máy đó.
+<br> Giáp : Thế à, vậy chắc tớ đến sớm một chút, khi nào đến tớ sẽ gọi cho cậu nhé.
 
-- Duy  : Á, sau khi xem phim, cùng đi ăn trưa luôn nhé?
-- Giáp : Được đó, dưới tầng 1 của rạp chiếu phim có một quán phở rất ngon đó.
-- Duy  : Thế à, vậy thì cùng đi ăn nhé
-- Giáp : Ừ, vậy thì hẹn gặp cậu vào thứ bảy nhé.
-- Duy  : Ừ, tạm biệt.
+<br> Duy  : Á, sau khi xem phim, cùng đi ăn trưa luôn nhé?
+<br> Giáp : Được đó, dưới tầng 1 của rạp chiếu phim có một quán phở rất ngon đó.
+<br> Duy  : Thế à, vậy thì cùng đi ăn nhé
+<br> Giáp : Ừ, vậy thì hẹn gặp cậu vào thứ bảy nhé.
+<br> Duy  : Ừ, tạm biệt.
 
 
 ---
@@ -29,28 +29,28 @@ Convert Giáp - Duy:
 
 ### 1. Bản full Hiragana (ひらがな)
 
-- Giáp : もしもし、じゃっぷ だよ。
-- Duy  : ずい だよ。しゅうまつ、ひま？
-- Giáp : うん、ひま だよ。
+<br> Giáp : もしもし、じゃっぷ だよ。
+<br> Duy  : ずい だよ。しゅうまつ、ひま？
+<br> Giáp : うん、ひま だよ。
 
-- Duy  : じゃあ、いっしょに えいがを みに いかない？
-- Giáp : それ いいね。なんの えいが？
-- Duy  : 「きみの なは」だよ。この えいがは とても にんき だよ。
+<br> Duy  : じゃあ、いっしょに えいがを みに いかない？
+<br> Giáp : それ いいね。なんの えいが？
+<br> Duy  : 「きみの なは」だよ。この えいがは とても にんき だよ。
 
-- Giáp : そうなんだ。ぼくも みたい。いつ？
-- Duy  : こんしゅうの どようび。
-- Giáp : いいね。なんじに、どこで あう？
-- Duy  : えいがは ごぜん 10じ（じゅうじ）から だから、9じ（くじ）に ぼくの だいがくの となりの かふぇで あおう。ぼくの ばいくで いっしょに べた えいがかんへ いこう。
+<br> Giáp : そうなんだ。ぼくも みたい。いつ？
+<br> Duy  : こんしゅうの どようび。
+<br> Giáp : いいね。なんじに、どこで あう？
+<br> Duy  : えいがは ごぜん 10じ（じゅうじ）から だから、9じ（くじ）に ぼくの だいがくの となりの かふぇで あおう。ぼくの ばいくで いっしょに べた えいがかんへ いこう。
 
-- Giáp : べた えいがかんか… ちょっと とおそうだね。
-- Duy  : うん、ばいくで 30ぷん（さんじゅっぷん）くらい かかるよ。
-- Giáp : そうなんだ。じゃあ、ちょっと はやく いくね。ついたら、でんわ するね。
+<br> Giáp : べた えいがかんか… ちょっと とおそうだね。
+<br> Duy  : うん、ばいくで 30ぷん（さんじゅっぷん）くらい かかるよ。
+<br> Giáp : そうなんだ。じゃあ、ちょっと はやく いくね。ついたら、でんわ するね。
 
-- Duy  : あ、えいがを みたら、いっしょに ひるごはんも たべない？
-- Giáp : いいね。えいがかんの 1かい（いっかい）に とても おいしい ふぉーの みせが あるよ。
-- Duy  : そうなんだ。じゃあ、いっしょに たべに いこう！
-- Giáp : うん、じゃあ、また どようびにね。
-- Duy  : うん、じゃあね。
+<br> Duy  : あ、えいがを みたら、いっしょに ひるごはんも たべない？
+<br> Giáp : いいね。えいがかんの 1かい（いっかい）に とても おいしい ふぉーの みせが あるよ。
+<br> Duy  : そうなんだ。じゃあ、いっしょに たべに いこう！
+<br> Giáp : うん、じゃあ、また どようびにね。
+<br> Duy  : うん、じゃあね。
 
 ---
 
